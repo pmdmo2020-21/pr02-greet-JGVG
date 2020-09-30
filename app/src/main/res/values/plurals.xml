@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="menssage_politely_text">
+        <item quantity="other">Good morning %1$s %2$s %3$s. Pleased to meet you</item>
+        <item quantity="many">@string/buy_premium_text</item>
+    </plurals>
+    <plurals name="menssage_colloquially_text">
+        <item quantity="other">Hello %1$s %2$s. What\'s up?</item>
+        <item quantity="many">@string/buy_premium_text</item>
+    </plurals>
+
+</resources>
