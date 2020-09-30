@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Greet</string>
+    <string name="switch_text">Premium</string>
+    <string name="edittext_text_01">Name</string>
+    <string name="edittext_text_02">Sirname</string>
+    <string name="radiogroup_text">Threatment</string>
+    <string name="radiobutton_text_01">Mr.</string>
+    <string name="radiobutton_text_02">Mrs.</string>
+    <string name="radiobutton_text_03">Ms.</string>
+    <string name="checkbox_text">Politely</string>
+    <string name="clickbutton_text">GREET</string>
+    <string name="progress_bar_text">1$d of 10</string>
+    <string name="buy_premium_text">Buy premium subscription to go on greting!!</string>
+
+    <plurals name="menssage_politely_text">
+        <item quantity="other">Good morning 1$s 2$s 3$s. Pleased to meet you</item>
+        <item quantity="many">@string/buy_premium_text</item>
+    </plurals>
+
+    <plurals name="menssage_colloquially_text">
+        <item quantity="other">Hello 1$s 2$s. What\'s up?</item>
+        <item quantity="many">@string/buy_premium_text</item>
+    </plurals>
+
 </resources>
